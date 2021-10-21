@@ -1,0 +1,12 @@
+validation/aeroplane/aeroplane_156357.jpg 0
+validation/bicycle/bicycle_126867.jpg 1
+validation/bus/bus_166288.jpg 2
+validation/car/car_139497.jpg 3
+validation/horse/horse_58895.jpg 4
+validation/knife/knife_1521497.jpg 5
+validation/motorcycle/motorcycle_245972.jpg 6
+validation/person/person_1202252.jpg 7
+validation/plant/plant_1955336.jpg 8
+validation/skateboard/skateboard_641485.jpg 9
+validation/train/train_170471.jpg 10
+validation/truck/truck_398175.jpg 11
