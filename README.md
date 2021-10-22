@@ -1,6 +1,6 @@
 # Pretraining and Consistency
 
-This repository contains the implementation for the BMVC, 2021 paper 
+This repository contains the implementation for the BMVC'21 paper 
 "Surprisingly Simple Semi-Supervised Domain Adaptation with Pretraining and Consistency".
 
 ## Install
