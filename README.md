@@ -61,3 +61,15 @@ The following are commands to run the experiments for the corresponding results 
 For computing nearest neighbors classifier accuracy, use 
 
 `python addnl_scripts/eval/nn_classifier.py --backbone_path=path/to/backbone`
+
+## Citation
+
+If you find this repository useful for your work, please consider citing:
+```
+@article{mishra2021surprisingly,
+  title={Surprisingly Simple Semi-Supervised Domain Adaptation with Pretraining and Consistency},
+  author={Mishra, Samarth and Saenko, Kate and Saligrama, Venkatesh},
+  journal={arXiv preprint arXiv:2101.12727},
+  year={2021}
+}
+```
